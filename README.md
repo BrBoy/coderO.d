@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BrBoy
+- 👋 Hi, I’m @coder_od
 - 👀 I’m interested in JS and Python development!
 - 🌱 I’m currently learning JS, html, css and Python 
 - 💞️ I’m looking to collaborate on ...
